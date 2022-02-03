@@ -5,10 +5,7 @@
 # Schedule
 | Date      | Topic | Description |Speakers |
 | ----------- | ----------- |  ----------- |  ----------- |
-| 2022-02-04     
-| Introduction 
-| The goal of this first week is to understand the Twitter Space functionality, highlight the reason for the Space, and solicit ideas for topics and speakers from the community
-| Rama and Ben
+| 2022-02-04    | Introduction | The goal of this first week is to understand the Twitter Space functionality, highlight the reason for the Space, and solicit ideas for topics and speakers from the community | Rama and Ben
 
 
 # Links
