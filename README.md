@@ -10,6 +10,22 @@
 
 # Links
 
+# Potential Topics
+* Career paths in science
+* AI for materials discovery
+* AI applied to science at user facilities
+* AI for drug discovery
+* The role of AI and ML in the new Materials Genome Initiative
+* AI for SARS-CoV-2 applications and pandemic preparedness
+* AI in high-energy physics
+* Open science and software
+* Data Infrastructure for science
+* AI for applications in microscopy and imaging
+* Translation of ML and AI advances into industry
+* Uncertainty quantification
+* The role of AI in manufacturing and global competetiveness
+
+
 # How to Contribute
 <TBD>
 
